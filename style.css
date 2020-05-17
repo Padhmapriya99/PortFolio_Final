@@ -1,0 +1,76 @@
+
+
+
+
+.social a{
+    font-size: 4.5em;
+    padding: 3rem;
+}
+
+#footer{
+    background-color:black ;
+    color:white;
+}
+
+.connect{
+    text-align: left;
+}
+
+#first,h2{
+    text-align: center;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    color: #222;
+}
+
+.navbar{
+    padding: .8rem;
+}
+
+.navbar-nav li{
+    padding-right: 20px;
+}
+
+.nav-link{
+    font-size:1.1em !important ;
+}
+
+.carousel-inner img{
+
+    width: auto;
+    height: 525px;
+    max-height: 525px;
+   
+}
+
+
+.jumbotron{
+    padding: 1rem;
+    border-radius: 0;
+}
+
+.padding{
+    padding-bottom: 2rem;
+
+}
+
+#first{
+    text-align: center;
+}
+
+h2{
+    text-align: left;
+}
+
+.carousel-item{
+    text-align: center;
+}
+
+body{ margin:0 auto; }
+#page-wrap {
+    width: 800px;
+    margin: 0 auto;
+}
