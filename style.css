@@ -79,7 +79,6 @@ overflow: auto; }
 
 #Pro{
     float:right;
-    width: 60%;
   margin-left: 20%;
   border: solid #000000 3px;
 }
