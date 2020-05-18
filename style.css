@@ -76,3 +76,7 @@ body{ margin:0 auto; }
 }
 body{ max-width:80%;
 overflow: auto; }
+
+#Pro{
+    text-align:right;
+}
