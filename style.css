@@ -78,8 +78,9 @@ body{ max-width:80%;
 overflow: auto; }
 
 #Pro{
+    display:block;
     margin:auto;
-    display:block;  
+      
 }
 
 *, ::after, ::before {
