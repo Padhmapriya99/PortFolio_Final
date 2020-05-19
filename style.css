@@ -78,6 +78,6 @@ body{ max-width:80%;
 overflow: auto; }
 
 #Pro{
-    float:right;
-  
+    margin:auto;
+    display:block;  
 }
