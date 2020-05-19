@@ -85,3 +85,9 @@ overflow: auto; }
 *, ::after, ::before {
     box-sizing: border-box;
 }
+
+#second{
+    text-align: center;
+    transform: translateX(10%);
+    
+}
