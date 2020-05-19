@@ -81,3 +81,7 @@ overflow: auto; }
     margin:auto;
     display:block;  
 }
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
